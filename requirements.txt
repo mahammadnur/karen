@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+websockets
+numpy
+opencv-python
+ultralytics
+google-generativeai
+gtts
+pillow
+python-multipart
